@@ -170,3 +170,5 @@ Ceci est possible grâce au `trait` `HasFactory` utilisé par la classe `User`
 ![image data](../img/lara-user.PNG) 
 
 C'est tout pour l'instant avec les migrations. Nous créerons plus tard les autres données. Auparavant, il nous faut voir les modèles.
+
+alid va sur faker.php.github.io impregne toi dans l'utilisation des donnees non relle fin d avoir une apercu de ton site ou application
